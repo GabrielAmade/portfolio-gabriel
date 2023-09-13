@@ -41,9 +41,8 @@ const TestiCarousel = () => {
     <>
       <Carousel
         responsive={responsive}
-        showDots={true}
+        showDots={false}
         containerClass="carousel-container"
-        removeArrowOnDeviceType={["desktop"]}
         draggable={true}
 
       >
