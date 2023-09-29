@@ -4,7 +4,7 @@
   "navbar_contact": "Contact",
 
   "greeting": "Hello,",
-  "tagline": "Je suis Gabriel, développeur front et rédacteur web passionné",
+  "tagline": "Je suis Gabriel, développeur full-stack et rédacteur web passionné",
 
   "about_me": "À Propos",
   "description_title_1": "Créateur du web, ",
@@ -49,17 +49,15 @@
   "work_experience_list_3": "- Gestion et création de sites Wordpress",
   "work_experience_list_4": "- Réalisation d'audits et optimisation SEO des sites du groupe SFP Expansion",
 
+  "project_name_1": "Créez une page web dynamique avec JavaScript",
+  "project_details_1": "Créer la page de présentation des travaux de l'architecte // Ajouter une page de connexion de l'administrateur du site // Afficher une fenêtre modale permettant d’ajouter et de supprimer de nouveaux projets",
 
-  "project_name_1": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-  "project_details_1": "Intégrer la maquette du site en HTML et CSS // Respecter le visuel fourni // Rendre l’interface parfaitement responsive pour smartphone et tablette",
+  "project_name_2": "Créez une application web de location immobilière avec React",
+  "project_details_2": "Créer les pages et les composants du site // Mettre en place les routes pour connecter ces pages // Ajouter des animations de carroussel et de collapse",
 
-  "project_name_2": "Créez une page web dynamique avec JavaScript",
-  "project_details_2": "Créer la page de présentation des travaux de l'architecte // Ajouter une page de connexion de l'administrateur du site // Afficher une fenêtre modale permettant d’ajouter et de supprimer de nouveaux projets",
-
-  "project_name_3": "Créez une application web de location immobilière avec React",
-  "project_details_3": "Créer les pages et les composants du site // Mettre en place les routes pour connecter ces pages // Ajouter des animations de carroussel et de collapse",
-
-
+  "project_name_3": "Développez le back-end d'un site de notation de livres",
+  "project_details_3": "Création de compte utilisateur et connexion // Ajout d'un livre lorsque l'utilisateur est connecté // Modification et suppression des livres ajoutés",
+  
   "hobby_title_1": "Écriture",
   "hobby_description_1": "Ma passion pour les mots m'a guidé vers une très belle expérience en tant que rédacteur indépendant pendant deux ans sur la plateforme Come up. J'ai eu le plaisir d'écrire des dizaines d'articles sur une variété de sujets, du bien-être au web marketing en passant par la photographie.",
 

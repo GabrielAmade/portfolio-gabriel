@@ -49,14 +49,14 @@
     "work_experience_list_3": "- Gestione e creazione di siti Wordpress",
     "work_experience_list_4": "- Realizzazione di audit e ottimizzazione SEO dei siti del gruppo SFP Expansion",
 
-    "project_name_1": "Creazione della homepage di un'agenzia di viaggi con HTML & CSS",
-    "project_details_1": "Integrazione del layout del sito in HTML e CSS // Rispetto del design fornito // Rendere l'interfaccia perfettamente responsiva per smartphone e tablet",
+    "project_name_1": "Creazione di una pagina web dinamica con JavaScript",
+    "project_details_1": "Creazione della pagina di presentazione dei lavori dell'architetto // Aggiunta di una pagina di accesso per l'amministratore del sito // Visualizzazione di una finestra modale per aggiungere e rimuovere nuovi progetti",
 
-    "project_name_2": "Creazione di una pagina web dinamica con JavaScript",
-    "project_details_2": "Creazione della pagina di presentazione dei lavori dell'architetto // Aggiunta di una pagina di accesso per l'amministratore del sito // Visualizzazione di una finestra modale per aggiungere e rimuovere nuovi progetti",
+    "project_name_2": "Creazione di un'applicazione web per la locazione immobiliare con React",
+    "project_details_2": "Creazione delle pagine e dei componenti del sito // Implementazione delle route per collegare queste pagine // Aggiunta di animazioni per il carosello e il collapse",
 
-    "project_name_3": "Creazione di un'applicazione web per la locazione immobiliare con React",
-    "project_details_3": "Creazione delle pagine e dei componenti del sito // Implementazione delle route per collegare queste pagine // Aggiunta di animazioni per il carosello e il collapse",
+    "project_name_3": "Sviluppa il back-end di un sito di recensioni di libri",
+    "project_details_3": "Creazione di account utente e accesso // Aggiunta di un libro quando l'utente è connesso // Modifica ed eliminazione dei libri aggiunti",
 
     "hobby_title_1": "Scrittura",
     "hobby_description_1": "La mia passione per le parole mi ha portato a un'entusiasmante esperienza come scrittore freelance per due anni sulla piattaforma Come up. Ho avuto il piacere di scrivere decine di articoli su una varietà di argomenti, dal benessere al web marketing alla fotografia.",

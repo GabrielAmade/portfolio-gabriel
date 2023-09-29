@@ -51,16 +51,14 @@
     "work_experience_list_3": "- Management and creation of WordPress sites",
     "work_experience_list_4": "- SEO audits and optimization of sites for the SFP Expansion group",
 
-
-    "project_name_1": "Create a travel agency homepage with HTML & CSS",
-    "project_details_1": "Integrate the site's mockup in HTML and CSS // Respect the provided visuals // Make the interface fully responsive for smartphones and tablets",
+    "project_name_1": "Create a dynamic web page with JavaScript",
+    "project_details_1": "Create the page to present the architect's work // Add an administrator login page // Display a modal window to add and delete new projects",
   
-    "project_name_2": "Create a dynamic web page with JavaScript",
-    "project_details_2": "Create the page to present the architect's work // Add an administrator login page // Display a modal window to add and delete new projects",
-  
-    "project_name_3": "Create a real estate rental web application with React",
-    "project_details_3": "Create the pages and components of the site // Set up routes to connect these pages // Add carousel and collapse animations",
-
+    "project_name_2": "Create a real estate rental web application with React",
+    "project_details_2": "Create the pages and components of the site // Set up routes to connect these pages // Add carousel and collapse animations",
+    
+    "project_name_3": "Develop the back-end of a book rating website",
+    "project_details_3": "User account creation and login // Adding a book when the user is logged in // Editing and deleting added books",
     
     "hobby_title_1": "Writing",
     "hobby_description_1": "My passion for words led me to a thrilling experience as a freelance writer for two years on the Come up platform. I had the pleasure of writing dozens of articles on a variety of topics, from well-being to web marketing to photography.",
