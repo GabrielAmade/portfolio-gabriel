@@ -80,7 +80,7 @@ function Resume() {
           {data.project_name_1}
         </a>
       ),
-      duration: { fromDate: "2020", toDate: "2021" },
+      duration: { fromDate: "01", toDate: "02/23" },
       description: (
         <div className="project-container">
           <div className="project-description project-description-1">
@@ -100,7 +100,7 @@ function Resume() {
           {data.project_name_2}
         </a>
       ),
-      duration: { fromDate: "2020", toDate: "2021" },
+      duration: { fromDate: "04", toDate: "05/23" },
 
       description: (
         <div className="project-container">
@@ -122,7 +122,7 @@ function Resume() {
           {data.project_name_3}
         </a>
       ),
-      duration: { fromDate: "2020", toDate: "2021" },
+      duration: { fromDate: "06", toDate: "07/23" },
       description: (
         <div className="project-container">
           <div className="project-description project-description-3">

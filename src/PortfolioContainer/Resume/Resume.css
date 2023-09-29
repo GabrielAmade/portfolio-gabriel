@@ -249,7 +249,7 @@
         top: 400px;
       }
     .project-description.project-description-3:hover + .project-image-3 {
-        top: -160px;
+        top: 20px;
       }
 
     .resume-main-heading a {
@@ -312,7 +312,7 @@
       }
 
     .project-description.project-description-3:hover + .project-image-3 {
-        top: -110px;
+        top: 200px;
       }
 
     .resume-main-heading a {
@@ -340,13 +340,17 @@
       }
 
     .project-description.project-description-3:hover + .project-image-3 {
-        top: 95px;
+        top: -180px;
       }
   }
   
   @media (max-width: 380px) {
     .resume-heading-description {
       font-size: 11px;
+    }
+
+    .project-description.project-description-3:hover + .project-image-3 {
+      top: -15px;
     }
 
   }
