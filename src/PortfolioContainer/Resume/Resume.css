@@ -173,24 +173,24 @@
   }
   
   .project-description.project-description-1:hover + .project-image-1 {
-    display: block; /* Show the image on hover */
-    background-image: url("../../assets/Resume/project-html-css.png"); /* Change to appropriate image URL */
-    opacity: 1;
-    z-index: 1000;
-    top: 80px;
-  }
-  
-  .project-description.project-description-2:hover + .project-image-2 {
-    display: block; /* Show the image on hover */
-    background-image: url("../../assets/Resume/project-js.png"); /* Change to appropriate image URL */
+    display: block; 
+    background-image: url("../../assets/Resume/project-js.png"); 
     opacity: 1;
     z-index: 1000;
     top: 130px;
   }
+  
+  .project-description.project-description-2:hover + .project-image-2 {
+    display: block; 
+    background-image: url("../../assets/Resume/project-react-list.png"); 
+    opacity: 1;
+    z-index: 1000;
+    top: 1020px;
+  }
 
   .project-description.project-description-3:hover + .project-image-3 {
-    display: block; /* Show the image on hover */
-    background-image: url("../../assets/Resume/project-react-list.png"); /* Change to appropriate image URL */
+    display: block; 
+    background-image: url("../../assets/Resume/project-node.png"); 
     opacity: 1;
     z-index: 1000;
     top: 1020px;
@@ -249,7 +249,7 @@
         top: 400px;
       }
     .project-description.project-description-3:hover + .project-image-3 {
-        top: -110px;
+        top: -160px;
       }
 
     .resume-main-heading a {
@@ -312,7 +312,7 @@
       }
 
     .project-description.project-description-3:hover + .project-image-3 {
-        top: 0px;
+        top: -110px;
       }
 
     .resume-main-heading a {
@@ -340,7 +340,7 @@
       }
 
     .project-description.project-description-3:hover + .project-image-3 {
-        top: -75px;
+        top: 95px;
       }
   }
   

@@ -73,7 +73,7 @@ function Resume() {
     {
       title: (
         <a
-          href="https://github.com/GabrielAmade/bookie"
+          href="https://github.com/GabrielAmade/Portfolio-architecte-sophie-bluel-master"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -93,7 +93,7 @@ function Resume() {
     {
       title: (
         <a
-          href="https://github.com/GabrielAmade/Portfolio-architecte-sophie-bluel-master"
+          href="https://github.com/GabrielAmade/kasa"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -115,7 +115,7 @@ function Resume() {
     {
       title: (
         <a
-          href="https://github.com/GabrielAmade/kasa"
+          href="https://github.com/GabrielAmade/backend_nodejs"
           target="_blank"
           rel="noopener noreferrer"
         >
