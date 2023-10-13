@@ -8,7 +8,7 @@ import data_it from "../data_it.json";
 function Resume() {
   const [selectedBulletIndex, setSelectedBulletIndex] = useState(0);
   const [carousalOffSetStyle, setCarousalOffSetStyle] = useState({});
-  const [language, setLanguage] = useState("en"); // Default to English
+  const [language, setLanguage] = useState("en"); 
 
   useEffect(() => {
     const detectedLanguage = navigator.language.split("-")[0];
